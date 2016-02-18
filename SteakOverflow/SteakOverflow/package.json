@@ -1,0 +1,15 @@
+{
+  "name": "SteakOverflow",
+  "version": "0.0.0",
+  "description": "SteakOverflow",
+  "main": "app.js",
+  "author": {
+    "name": "Handler",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
